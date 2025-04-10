@@ -2,11 +2,11 @@
 
 Este repositório contém a documentação e arquivos do Projeto 2 da disciplina de Sistemas a Eventos Discretos (SED), que consiste na modelagem de um sistema de manufatura com quatro células idênticas utilizando Redes de Petri Coloridas (CPN) na ferramenta **CPN Tools**.
 
-## 🎯 Objetivo Geral
+## Objetivo Geral
 
 Modelar e validar um sistema de manufatura com múltiplas células, máquinas e robôs, utilizando Redes de Petri Coloridas para garantir funcionamento correto e sem bloqueios (deadlocks). O modelo é hierárquico, com temporizações e análises de desempenho.
 
-## 🏭 Descrição do Sistema
+## Descrição do Sistema
 
 O sistema é composto por **4 células idênticas**, cada uma contendo:
 
@@ -25,18 +25,18 @@ Cada célula executa duas possíveis rotas de produção:
 - **Rota i:** M1 → M2 → Saída.
 - **Rota j:** M1 → M3 → Saída.
 
-## 🧠 Modelagem no CPN Tools
+## Modelagem no CPN Tools
 
 - Modelo implementado com **Redes de Petri Coloridas**.
 - Estrutura **hierárquica**: cada célula é um módulo reutilizável.
 - Utilização de **color sets** para representar itens, rotas, células e atributos dos tokens.
 - Limite de **4 tokens por buffer** para simular a capacidade máxima.
 
-## 🎬 Demonstração em Vídeo
+## Demonstração em Vídeo
 
-[🔗 Clique aqui para assistir ao vídeo explicativo no YouTube](https://youtu.be/SEU_VIDEO_AQUI)
+Link de acesso ao vídeo no YouTube: https://youtu.be/8zagKujZZwg
 
-## 👨‍💻 Desenvolvedor
+## Desenvolvedor
 
     Mateus Figueiredo (mateus.figueiredo@ee.ufcg.edu.br)
     Matheus Lucas     (matheuslucas.farias@ee.ufcg.edu.br)
