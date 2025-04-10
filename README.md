@@ -32,9 +32,13 @@ Cada célula executa duas possíveis rotas de produção:
 - Utilização de **color sets** para representar itens, rotas, células e atributos dos tokens.
 - Limite de **4 tokens por buffer** para simular a capacidade máxima.
 
+## Automâtos das Máquinas
+
+![Imagem indisponível](Automatos_Maquinas.png)
+
 ## Demonstração em Vídeo
 
-Link de acesso ao vídeo no YouTube: https://youtu.be/8zagKujZZwg
+Link de acesso ao vídeo no YouTube: 
 
 ## Desenvolvedor
 
@@ -42,7 +46,7 @@ Link de acesso ao vídeo no YouTube: https://youtu.be/8zagKujZZwg
     Matheus Lucas     (matheuslucas.farias@ee.ufcg.edu.br)
     Tâmara Ruth       (tamara.santos@ee.ufcg.edu.br)
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - [CPN Tools](https://cpntools.org)
 - Git e GitHub para versionamento e documentação.
