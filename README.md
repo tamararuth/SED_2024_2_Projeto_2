@@ -53,3 +53,5 @@ https://youtu.be/ZRyJCFzJQK8
 - [CPN Tools](https://cpntools.org)
 - Git e GitHub para versionamento e documentação.
 
+## Agradecimentos
+- Agradeço ao professor Kyller por ministrar a disciplina.
