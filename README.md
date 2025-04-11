@@ -40,6 +40,8 @@ Cada célula executa duas possíveis rotas de produção:
 
 Link de acesso ao vídeo no YouTube: 
 
+https://youtu.be/ZRyJCFzJQK8
+
 ## Desenvolvedor
 
     Mateus Figueiredo (mateus.figueiredo@ee.ufcg.edu.br)
