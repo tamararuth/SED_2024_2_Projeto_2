@@ -32,7 +32,7 @@ Cada célula executa duas possíveis rotas de produção:
 - Utilização de **color sets** para representar itens, rotas, células e atributos dos tokens.
 - Limite de **4 tokens por buffer** para simular a capacidade máxima.
 
-## Representaçaõ das 4 Células
+## Representação das 4 Células
 
 ![Imagem indisponível](Celulas.jpeg)
 
@@ -54,4 +54,4 @@ https://youtu.be/ZRyJCFzJQK8
 - Git e GitHub para versionamento e documentação.
 
 ## Agradecimentos
-- Agradeço ao professor Kyller por ministrar a disciplina.
+- Agradecemos ao professor Kyller por ministrar a disciplina.
